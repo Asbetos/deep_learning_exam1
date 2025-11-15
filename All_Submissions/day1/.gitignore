@@ -1,0 +1,4 @@
+Data/
+.*zip
+Final_Scripts/model_Andrew.keras
+All_Submissions/day6/big_autoencoder/model_Andrew.keras
